@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "placas-de-video",
+        "nombre": "Placa de Video",
+        "marca": "GeForce",
+        "modelo": "RTX 4080 16GB Asus Gaming",
+        "precio": 800000,
+        "stock": 30,
+        "img": "/img/Placa-De-Video-GeForce-RTX-4080-16Gb-Asus-GaminG_45355_1.jpeg"
+    },
+    {
+        "id": 2,
+        "idCategoria": "placas-de-video",
+        "nombre": "Placa de Video",
+        "marca": "GeForce",
+        "modelo": "RTX 3070 Ti 8GB Msi Gaming X Trio",
+        "precio": 430000,
+        "stock": 20,
+        "img": "/img/placa-de-video-3070ti.jpeg"
+    },
+    {
+        "id": 3,
+        "idCategoria": "placas-de-video",
+        "nombre": "Placa de Video",
+        "marca": "GeForce",
+        "modelo": "RTX 3070 8Gb Asus dual Oc V2",
+        "precio": 320000,
+        "stock": 15,
+        "img": "/img/placa-video-nvidia-rtx3070_1.jpeg"
+    },
+    {
+        "id": 4,
+        "idCategoria": "placas-de-video",
+        "nombre": "Placa de Video",
+        "marca": "GeForce",
+        "modelo": "GTX 1660 6GB Super Asus Tuf Gaming Oc",
+        "precio": 190000,
+        "stock": 30,
+        "img": "/img/placa-de-video-1660super.jpeg"
+    },
+    {
+        "id": 5,
+        "idCategoria": "monitores",
+        "nombre": "Monitor",
+        "marca": "Gigabyte",
+        "modelo": "Monitor Gamer 24` Gigabyte Full Hd 165Hz 1Ms Freesync G24F-2",
+        "precio": 130000,
+        "stock": 7,
+        "img": "/img/Monitor-Gamer-24-Gigabyte-Full-Hd-165Hz-1Ms-Freesync-G24F-2_44623_1.jpeg"
+    },
+    {
+        "id": 6,
+        "idCategoria": "monitores",
+        "nombre": "Monitor",
+        "marca": "Red Dragon",
+        "modelo": "Monitor Gamer 27` Redragon Full Hd 165Hz 1Ms Emerald",
+        "precio": 128000,
+        "stock": 20,
+        "img": "/img/monitor-reddragon-144hz_41142_1.jpeg"
+    },
+    {
+        "id": 7,
+        "idCategoria": "monitores",
+        "nombre": "Monitor",
+        "marca": "Viesonic",
+        "modelo": "Monitor Gamer 24` Viewsonic Full Hd 165Hz 1Ms Dp VX2418-P-MHD",
+        "precio": 11000,
+        "stock": 10,
+        "img": "/img/Monitor-Gamer-24-Viewsonic-Full-Hd-165Hz-1Ms-Dp-VX2418-P-MHD_43257_1.jpeg"
+    },
+    {
+        "id": 8,
+        "idCategoria": "monitores",
+        "nombre": "Monitor",
+        "marca": "Level Up",
+        "modelo": "Monitor Gamer 27` Level Up Full Hd 165Hz 1Ms 27-UP6580",
+        "precio": 99999,
+        "stock": 30,
+        "img": "/img/monitor-gamer-levelup-165hz_41513_1.jpeg"
+    },
+    {
+        "id": 9,
+        "idCategoria": "motherboards",
+        "nombre": "Placa Madre",
+        "marca": "Gigabyte",
+        "modelo": "Motherboard AM4 - Gigabyte GA-B550 AORUS ELITE V2",
+        "precio": 108000,
+        "stock": 21,
+        "img": "/img/placa-madre-b550-gamer-elite-gigabyte_39394_1.jpeg"
+    },
+    {
+        "id": 10,
+        "idCategoria": "motherboards",
+        "nombre": "Placa Madre",
+        "marca": "Gigabyte",
+        "modelo": "Motherboard 1200 11°Gen - Gigabyte B560M AORUS PRO AX",
+        "precio": 99999,
+        "stock": 25,
+        "img": "/img/placa-madre-1200-11-gen-Gigabyte-B560M-AORUS-PRO-AX_43201_1.jpeg"
+    },
+    {
+        "id": 11,
+        "idCategoria": "motherboards",
+        "nombre": "Placa Madre",
+        "marca": "Msi",
+        "modelo": "Motherboard AM4 - Msi B550 TOMAHAWK",
+        "precio": 93500,
+        "stock": 30,
+        "img": "/img/placa-madre-msi-tomahawk.jpeg"
+    },
+    {
+        "id": 12,
+        "idCategoria": "motherboards",
+        "nombre": "Placa Madre",
+        "marca": "Asus",
+        "modelo": "Motherboard 1700 12°Gen - Asus Prime H610M-K DDR4",
+        "precio": 45999,
+        "stock": 20,
+        "img": "/img/placa-madre-1700-12-Gen-Asus-Prime-H610M-K-DDR4_43978_1.jpeg"
+    },
+    {
+        "id": 13,
+        "idCategoria": "procesadores",
+        "nombre": "Procesador",
+        "marca": "Intel",
+        "modelo": "Procesador Intel Core i9 13900K 5.8 Ghz Raptor Lake 1700 Sin Cooler",
+        "precio": 385000,
+        "stock": 20,
+        "img": "/img/Procesador-Intel-Core-i9-13900K-5Ghz-Raptor-Lake-1700-Sin-Cooler_44388_1.jpeg"
+    },
+    {
+        "id": 14,
+        "idCategoria": "procesadores",
+        "nombre": "Procesador",
+        "marca": "Amd",
+        "modelo": "Procesador Amd Ryzen 9 5950X 4.9 Ghz - AM4 Sin Cooler Sin Gpu",
+        "precio": 299000,
+        "stock": 20,
+        "img": "/img/Ryzen-9-5950X_39449_1.jpeg"
+    },
+    {
+        "id": 15,
+        "idCategoria": "procesadores",
+        "nombre": "Procesador",
+        "marca": "Amd",
+        "modelo": "Procesador Amd Ryzen 7 5800X 4.7 Ghz - AM4 Sin Cooler Sin Gpu",
+        "precio": 285000,
+        "stock": 20,
+        "img": "/img/procesador-ryzen-7.jpeg"
+    },
+    {
+        "id": 16,
+        "idCategoria": "procesadores",
+        "nombre": "Procesador",
+        "marca": "Intel",
+        "modelo": "Procesador Intel Core i7 10700K 5 Ghz Comet Lake 1200 Sin Cooler",
+        "precio": 190000,
+        "stock": 20,
+        "img": "/img/procesador-intel-i7.jpeg"
+    },
+    {
+        "id": 17,
+        "idCategoria": "gabinetes",
+        "nombre": "Gabinete",
+        "marca": "Corsair",
+        "modelo": "Gabinete Full Tower Corsair Graphite 760T Negro Acrilico",
+        "precio": 81000,
+        "stock": 20,
+        "img": "/img/Gabinete-Full-Tower-Corsair-Graphite-760T-Negro-Acrilico_44269_1.jpeg"
+    },
+    {
+        "id": 18,
+        "idCategoria": "gabinetes",
+        "nombre": "Gabinete",
+        "marca": "Corsair",
+        "modelo": "Gabinete Mid Tower Corsair 220T Rgb Blanco Vidrio Templado",
+        "precio": 62000,
+        "stock": 20,
+        "img": "/img/gabinete-gamer_corsair-blanco_1.jpeg"
+    },
+    {
+        "id": 19,
+        "idCategoria": "gabinetes",
+        "nombre": "Gabinete",
+        "marca": "Thermaltake",
+        "modelo": "Gabinete Mid Tower Thermaltake Divider 370 Vidrio Templado ARGB Blanco",
+        "precio": 57500,
+        "stock": 20,
+        "img": "/img/Gabinete-Mid-Tower-Thermaltake-Divider-370-Vidrio-Templado-ARGB-Blanco_44888_1.jpeg"
+    },
+    {
+        "id": 20,
+        "idCategoria": "gabinetes",
+        "nombre": "Gabinete",
+        "marca": "Thermaltake",
+        "modelo": "Gabinete Mid Tower Thermaltake H700 TG Vidrio Templado Blanco",
+        "precio": 45999,
+        "stock": 20,
+        "img": "/img/Gabinete-Mid-Tower-Thermaltake-H700-TG-Vidrio-Templado-Blanco_44166_1.jpeg"
+    }
+]

@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.carroIco{
+  display: flex;
+  cursor: pointer;
+}
+
+.carroNotificacion {
+  background-color: red;
+    color: white;
+    border-radius: 50%;
+}
